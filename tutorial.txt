@@ -9,8 +9,8 @@
    - Só mandar:
      npm run dev
 
-4. Suba um túnel com o Ngrok:
-   - Usa esse comando, trocando a porta se for diferente da que tá no .env 
+4. Suba o Ngrok:
+   - Usa esse comando, trocando a porta pela que tá no .env 
      npx ngrok http 3000
    - Ele vai gerar uma URL tipo:
      https://xxxxx.ngrok-free.app
