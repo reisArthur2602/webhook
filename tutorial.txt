@@ -1,5 +1,5 @@
 1. Crie o arquivo .env com base no .env.example:
-   - Só copiar o conteúdo do .env.example e colar num novo arquivo chamado .env na raiz do projeto.
+   - Só copiar o conteúdo do env.example e colar num novo arquivo chamado .env na raiz do projeto.
 
 2. Instale as dependências:
    - Roda esse comando no terminal:
@@ -18,3 +18,4 @@
 5. Configure o webhook no painel da Z-API:
    - Vai no painel da Z-API e coloca a URL do Ngrok com **/webhook** no final, assim:
      https://xxxxx.ngrok-free.app/webhook
+
